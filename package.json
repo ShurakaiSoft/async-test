@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "async library test ",
   "main": "server/square.js",
+  "dependencies": {
+	  "async": "latest",
+	  "request": "latest"
+  }
   "scripts": {
     "start": "node server/square.js"
   },
@@ -12,6 +16,7 @@
     "library",
     "test"
   ],
+  
   "author": "Stephen Parker",
   "license": "BSD",
   "readmeFilename": "README.md"
