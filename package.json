@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node server/square.js"
   },
-  "repository": "",
+  "repository": "https://github.com/ShurakaiSoft/async-test.git",
   "keywords": [
     "async",
     "library",
