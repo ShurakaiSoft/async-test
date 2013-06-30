@@ -6,7 +6,7 @@
   "dependencies": {
 	  "async": "latest",
 	  "request": "latest"
-  }
+  },
   "scripts": {
     "start": "node server/square.js"
   },
